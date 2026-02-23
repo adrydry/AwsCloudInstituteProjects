@@ -1,0 +1,13 @@
+Lab Overview
+
+This lab will guide us through the steps in creating a WordPress blog on an Amazon Elastic Compute Cloud (EC2) instance.
+
+Objectives
+By the end of this lab you will be able to do the following:
+
+- Install, configure, and launch a WordPress blog on an Amazon Linux 2023 instance.
+
+Technical knowledge prerequisites
+
+Good understanding of Amazon Elastic Compute Cloud (EC2) concepts, familiarity with Amazon Elastic Load Balancer (ELB) and basic knowledge of database and webserver architecture is required for this lab.
+
